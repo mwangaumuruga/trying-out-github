@@ -1,2 +1,3 @@
-# trying-out-github
-this is my first task on github while solo learning exploring  and also experimenting in My Information Technology career
+
+First GitHub repository! 🎉#Trying-out-github
+This is my first task on github while solo learning & exploring   in My Information Technology Career
